@@ -1,0 +1,4 @@
+Carpeta para fotos (opcional).
+Fotos de época de la pantalla de entrega: img/danzas/italia-1.jpg, italia-2.jpg, texas-1.jpg, texas-2.jpg, africa-1.jpg, africa-2.jpg
+Fotos de platos: img/platos/<id>.jpg   Fotos de cocinas: img/categorias/<id>.jpg
+(crea las subcarpetas si no existen). Los id de platos están en js/data.js.
